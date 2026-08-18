@@ -1,0 +1,6 @@
+{
+  "name": "Ranczo Góry Miechowskie",
+  "description": "Nauka jazdy konnej, hodowla koni sokólskich oraz wycieczki szkolne i imprezy urodzinowe w Racławicach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
